@@ -1,0 +1,13 @@
+# Raw and cleaned data - do not commit large data files
+data/*.xlsx
+data/*.xls
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Power BI temp
+*.tmp
